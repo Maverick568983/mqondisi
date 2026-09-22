@@ -1,2 +1,18 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<! DOCTYPE html>
+<html>
+<head>
+       <style>
+           body (
+                  font-family: Arial;
+                  color: blue;
+                  font size: 20px;
+           )
+           </style>
+           </head>
+ <body>
+        <h1>hello, css!</h1>
+        <p>THis is a sample paragraph.</P>
+        <P
+        </BODY>
+        </HTML>
+         
